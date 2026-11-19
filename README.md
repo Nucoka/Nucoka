@@ -1,43 +1,54 @@
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=210&section=header&text=NUCOKA&fontSize=76&fontColor=FFFFFF&fontAlignY=48&desc=SOFTWARE%20%2F%20DESIGN%20%2F%20EXPERIMENTS&descSize=13&descAlignY=72&descColor=999999" />
 
-  <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=080808&height=240&section=header&text=NUCOKA&fontSize=88&fontColor=FFFFFF&fontAlignY=43&desc=SOFTWARE%20%20%2F%20%20DESIGN%20%20%2F%20%20TECHNOLOGY&descSize=13&descAlignY=70&descColor=888888"/>
 
-  **INDEPENDENT DEVELOPER**
+<br/>
 
-  Building tools. Exploring technology. Designing interfaces.
+### SOFTWARE · DESIGN · CREATIVE TECHNOLOGY
 
-  <br/>
-
-  <img src="https://img.shields.io/badge/RUST-111111?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WEBASSEMBLY-111111?style=flat-square&logo=webassembly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LINUX-111111?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FIGMA-111111?style=flat-square&logo=figma&logoColor=white"/>
+<br/>
 
 </div>
 
 ---
 
-<img align="right" width="34%" src="https://github-readme-stats.vercel.app/api?username=vexarLXV&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=FFFFFF&title_color=FFFFFF" />
+## 01 — ABOUT
 
-### / ABOUT
+I work with a wide range of software and technologies, from development and design to graphics, creative tools and hardware.
 
-Software, design and technology.
+I enjoy exploring new applications, building custom tools and experimenting with different technologies.
 
-Interested in creating useful tools, clean interfaces and well-crafted digital experiences.
+<br/>
 
-### / CURRENT INTERESTS
-
-- Software & tooling
-- Interface design
-- Linux environments
-- Embedded electronics
-
-<br clear="right"/>
-
----
+## 02 — SOFTWARE & CREATIVE TOOLS
 
 <div align="center">
-  <sub>NUCOKA · BUILT WITH INTENT</sub>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,idea,blender,unity,unreal,godot&theme=dark&perline=9"/>
+
+</div>
+
+## 03 — DEVELOPMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,c,cs,java,py,html,css&theme=dark&perline=9"/>
+
+</div>
+
+## 04 — SYSTEMS & ENVIRONMENT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,bash,powershell,docker,git,github&theme=dark&perline=9"/>
+
+</div>
+
+## 05 — HARDWARE & OTHER
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,postgres,mongodb,postman,cloudflare,vercel&theme=dark&perline=9"/>
+
 </div>
